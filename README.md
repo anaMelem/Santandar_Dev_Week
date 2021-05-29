@@ -5,6 +5,7 @@ Para a criação da mesma foram utilizadas as seguintes tecnologias:
 2. Spring
 3. Angular
 4. JPA
+
 Concluindo o Deploy no Heroku{...}
 
 ## Para executar a aplicação é necessário: 
